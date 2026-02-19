@@ -65,10 +65,6 @@ export default function FeaturedBraceletsBlock() {
               <span className="w-1 h-1 rounded-full bg-[#243247] opacity-40 flex-shrink-0" />
               مقاس قابل للتعديل لجميع الأحجام
             </div>
-            <div className="flex items-center gap-3 text-sm text-[#243247] opacity-60">
-              <span className="w-1 h-1 rounded-full bg-[#243247] opacity-40 flex-shrink-0" />
-              360 جنيه للقطعة
-            </div>
           </div>
 
           <div className="flex items-center gap-3">
